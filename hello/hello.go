@@ -7,5 +7,6 @@ import (
 )
 
 func main() {
+	// Test comment
 	fmt.Println(stringutil.Reverse("!oG ,olleH"))
 }
